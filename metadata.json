@@ -1,0 +1,7 @@
+{
+  "name": "Jawir Tools All-in-One",
+  "description": "A high-performance designer toolbox featuring a community chat, grid calculator, color picker, AI assistant, and QR generator with advanced anti-toxic filtering.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
